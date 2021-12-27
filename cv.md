@@ -1,22 +1,22 @@
 # Yury Akhrem
 
-# Junior Frontend Developer
+## Junior Frontend Developer
 
-# Contact information:
- **Phone:** +375-29-5584960
- **E-mail:** akhremr@gmail.com
- **Telegram:** @yuriakhrem
+## Contact information:
+ - **Phone:** +375-29-5584960
+ - **E-mail:** akhremr@gmail.com
+ - **Telegram:** @yuriakhrem
 
-# About Myself:
+## About Myself:
 Ability to investigate and analyze information and to draw conclusions. Outstanding analytical and troubleshooting skills.
 
-# Skills:
+## Skills:
  - HTML5, CSS3
  - JavaScript Basics
  - Git, GitHub
  - VS Code
 
-# Code example:
+## Code example:
 ```
     function cakes(recipe, available) {
         let result = [];
@@ -29,14 +29,14 @@ Ability to investigate and analyze information and to draw conclusions. Outstand
     }
 ```
 
-# Education:
+## Education:
  - Belarusian State University of Informatics and Radioelectronics, Minsk
    - Microelectronics and Solid-State Electronics
 
-# Courses:
+## Courses:
  - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
  - RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
 
-# Languages:
+## Languages:
  - English - Intermediate
  - Russian - Native

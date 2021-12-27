@@ -2,8 +2,8 @@
 
 ## Junior Frontend Developer
 
-## Contact information:
- - **Phone:** +375-29-5584960
+## Contact information
+ - **Phone:** +375 29 5584960
  - **E-mail:** akhremr@gmail.com
  - **Telegram:** @yuriakhrem
 

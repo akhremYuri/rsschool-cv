@@ -3,20 +3,25 @@
 ## Junior Frontend Developer
 
 ## Contact information
- - **Phone:** +375 29 5584960
- - **E-mail:** akhremr@gmail.com
- - **Telegram:** @yuriakhrem
+
+- **Phone:** +375 29 5584960
+- **E-mail:** akhremr@gmail.com
+- **Telegram:** @yuriakhrem
+- **Discord:** YuriAkhrem#6655
 
 ## About Myself:
-Ability to investigate and analyze information and to draw conclusions. Outstanding analytical and troubleshooting skills.
+
+I am good team player with outstanding analytical and troubleshooting skills. I have ability to investigate and analyze information and to draw conclusions.
 
 ## Skills:
- - HTML5, CSS3
- - JavaScript Basics
- - Git, GitHub
- - VS Code
+
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
 
 ## Code example:
+
 ```
     function cakes(recipe, available) {
         let result = [];
@@ -30,13 +35,16 @@ Ability to investigate and analyze information and to draw conclusions. Outstand
 ```
 
 ## Education:
- - Belarusian State University of Informatics and Radioelectronics, Minsk
-   - Microelectronics and Solid-State Electronics
+
+- Belarusian State University of Informatics and Radioelectronics, Minsk
+  - Microelectronics and Solid-State Electronics
 
 ## Courses:
- - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
- - RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
+
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
+- RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
 
 ## Languages:
- - English - Intermediate
- - Russian - Native
+
+- English - Intermediate
+- Russian - Native

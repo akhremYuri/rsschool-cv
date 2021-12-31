@@ -4,8 +4,106 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CV Akhrem Yuri</title>
+    <title>CV Akhrem Yury</title>
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body></body>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#about-myself">About Me</a></li>
+        <li><a href="#contacts">Contacts</a></li>
+        <li><a href="#skills">Skills</a></li>
+      </ul>
+    </nav>
+    <header>
+      <h1>Akhrem Yury</h1>
+      <p>Junior Frontend Developer</p>
+    </header>
+    <aside>
+      <section>
+        <h2 id="contacts">Contact information</h2>
+        <address>
+          <ul>
+            <li>Phone: <a href="tel:+375295584960">+375 29 5584960</a></li>
+            <li>
+              E-mail: <a href="mailto:akhremr@gmail.com">akhremr@gmail.com</a>
+            </li>
+            <li>Telegram: @yuriakhrem</li>
+          </ul>
+        </address>
+      </section>
+      <section>
+        <h2>Education</h2>
+        <ul>
+          <li>
+            Belarusian State University of Informatics and Radioelectronics
+            <ul>
+              <li>Microelectronics and Solid-State Electronics</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section>
+        <h2>Courses</h2>
+        <ul>
+          <li>
+            JavaScript Manual on
+            <a href="https://learn.javascript.ru/">learnjavascript.ru</a>
+          </li>
+          <li>
+            RS Schools Course "JavaScript/Front-end. Stage0" (in progress)
+          </li>
+        </ul>
+      </section>
+      <section>
+        <h2>Languages</h2>
+        <ul>
+          <li>English - Intermediate</li>
+          <li>Russian - Native</li>
+        </ul>
+      </section>
+    </aside>
+    <main>
+      <section>
+        <h2 id="about-myself">About Myself</h2>
+        <p>
+          I am good team player with outstanding analytical and troubleshooting
+          skills. I have ability to investigate and analyze information and to
+          draw conclusions.
+        </p>
+      </section>
+      <section>
+        <h2 id="skills">Skills</h2>
+        <ul>
+          <li>HTML5, CSS3</li>
+          <li>JavaScript Basics</li>
+          <li>Git, GitHub</li>
+          <li>VS Code</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Code example</h2>
+        <pre>
+          <code>
+            function cakes(recipe, available) {
+              let result = [];
+              for (let prop in recipe){
+                  let recipeProp = recipe[prop];
+                  let availableProp = available[prop] || 0;
+                  result.push(Math.floor(availableProp/recipeProp));
+              }
+              return Math.min(...result);
+            }
+          </code>
+        </pre>
+      </section>
+      <section>
+        <h2>Projects</h2>
+        <ul>
+          <li><a href="#">rsschool-cv</a></li>
+        </ul>
+      </section>
+    </main>
+    <footer></footer>
+  </body>
 </html>

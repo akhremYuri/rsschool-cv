@@ -1,4 +1,20 @@
+body {
+  background: yellowgreen;
+}
+
 .wrapper {
   width: 1000px;
   margin: 0 auto;
+  background: rgb(245, 243, 241);
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 10px 0;
+}
+
+.nav-bar a {
+  text-decoration: none;
 }

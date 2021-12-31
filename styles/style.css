@@ -18,3 +18,23 @@ body {
 .nav-bar a {
   text-decoration: none;
 }
+
+header {
+  text-align: center;
+  position: relative;
+}
+
+.my-photo {
+  border-radius: 50%;
+  position: absolute;
+  left: 65px;
+  margin: 0 50px;
+}
+
+h1 {
+  padding-top: 25px;
+}
+
+.data-container {
+  margin: 50px 0;
+}

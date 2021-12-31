@@ -36,5 +36,58 @@ h1 {
 }
 
 .data-container {
-  margin: 50px 0;
+  margin: 90px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+aside {
+  padding: 0 20px;
+}
+
+main {
+  padding: 0 50px;
+  border-left: 1px solid #000;
+}
+
+.contacts-data {
+  padding: 0;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.education-list {
+  list-style: none;
+  padding: 0;
+  line-height: 1.5em;
+}
+
+.education-list ul {
+  padding: 0 20px;
+  list-style-type: " - ";
+}
+
+.courses-list {
+  padding: 0 20px;
+  line-height: 1.5em;
+}
+
+.language-list {
+  padding: 0 20px;
+  line-height: 1.5em;
+}
+
+.skills-list {
+  padding: 0 20px;
+  line-height: 1.5em;
+  list-style-type: " - ";
+}
+
+.code-example {
+  background: rgb(216, 213, 213);
+}
+
+.project-list {
+  padding: 0 20px;
+  list-style: none;
 }

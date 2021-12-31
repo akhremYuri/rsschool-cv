@@ -56,6 +56,10 @@ main {
   line-height: 1.5em;
 }
 
+.contacts-data a {
+  text-decoration: none;
+}
+
 .education-list {
   list-style: none;
   padding: 0;
@@ -90,4 +94,12 @@ main {
 .project-list {
   padding: 0 20px;
   list-style: none;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 1px solid #000;
+  font-size: 25px;
 }

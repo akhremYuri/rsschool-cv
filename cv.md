@@ -42,7 +42,8 @@ I am good team player with outstanding analytical and troubleshooting skills. I 
 ## Courses:
 
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
-- RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
+- RS Schools Course "JavaScript/Front-end. Stage 0"
+- RS Schools Course "JavaScript/Front-end. Stage 1"(in progress)
 
 ## Languages:
 

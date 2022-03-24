@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV Akhrem Yury</title>
+    <link rel="stylesheet" href="styles/normalize.css" />
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <nav>
+        <ul class="nav-bar">
+          <li><a href="#about-myself">About Me</a></li>
+          <li><a href="#contacts">Contacts</a></li>
+          <li><a href="#skills">Skills</a></li>
+        </ul>
+      </nav>
+      <header>
+        <img
+          class="my-photo"
+          src="images/logo_cv.jpg"
+          width="105"
+          height="125"
+          alt="photo"
+        />
+        <h1>Akhrem Yury</h1>
+        <p>Junior Frontend Developer</p>
+      </header>
+      <div class="data-container">
+        <aside>
+          <section>
+            <h2 id="contacts">Contacts</h2>
+            <address>
+              <ul class="contacts-data">
+                <li>Phone: <a href="tel:+375295584960">+375 29 5584960</a></li>
+                <li>
+                  E-mail:
+                  <a href="mailto:akhremr@gmail.com">akhremr@gmail.com</a>
+                </li>
+                <li>Telegram: @yuriakhrem</li>
+                <li>Discord: YuriAkhrem#6655</li>
+              </ul>
+            </address>
+          </section>
+          <section>
+            <h2>Education</h2>
+            <ul class="education-list">
+              <li>
+                Belarusian State University of Informatics and Radioelectronics
+                <ul>
+                  <li>Microelectronics and Solid-State Electronics</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h2>Courses</h2>
+            <ul class="courses-list">
+              <li>
+                JavaScript Manual on
+                <a href="https://learn.javascript.ru/">learnjavascript.ru</a>
+              </li>
+              <li>RS Schools Course "JavaScript/Front-end. Stage0"</li>
+              <li>
+                RS Schools Course "JavaScript/Front-end. Stage1" (in progress)
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h2>Languages</h2>
+            <ul class="language-list">
+              <li>English - Intermediate</li>
+              <li>Russian - Native</li>
+            </ul>
+          </section>
+        </aside>
+        <main>
+          <section>
+            <h2 id="about-myself">About Myself</h2>
+            <p>
+              I am good team player with outstanding analytical and
+              troubleshooting skills. I have ability to investigate and analyze
+              information and to draw conclusions.
+            </p>
+          </section>
+          <section>
+            <h2 id="skills">Skills</h2>
+            <ul class="skills-list">
+              <li>HTML5, CSS3</li>
+              <li>JavaScript Basics</li>
+              <li>Git, GitHub</li>
+              <li>VS Code</li>
+            </ul>
+          </section>
+          <section>
+            <h2>Code example</h2>
+            <pre class="code-example">
+          <code>
+            function cakes(recipe, available) {
+              let result = [];
+              for (let prop in recipe){
+                  let recipeProp = recipe[prop];
+                  let availableProp = available[prop] || 0;
+                  result.push(Math.floor(availableProp/recipeProp));
+              }
+              return Math.min(...result);
+            }
+          </code>
+        </pre>
+          </section>
+          <section>
+            <h2>Projects</h2>
+            <ul class="project-list">
+              <li>
+                <a
+                  href="https://rolling-scopes-school.github.io/akhremyuri-JSFEPRESCHOOL/portfolio/"
+                  >Portfolio</a
+                >
+              </li>
+            </ul>
+          </section>
+        </main>
+      </div>
+      <footer>
+        <div>2022</div>
+        <a href="https://github.com/akhremYuri"
+          ><img
+            src="images/GitHub-Mark-64px.png"
+            width="50"
+            height="50"
+            alt="My GitHub repository"
+        /></a>
+        <a href="https://rs.school/js/"
+          ><img
+            src="images/rs_school_js.svg"
+            width="100"
+            height="100"
+            alt="RS School logo"
+        /></a>
+      </footer>
+    </div>
+  </body>
+</html>
